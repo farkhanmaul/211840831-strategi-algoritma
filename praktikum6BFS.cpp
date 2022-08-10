@@ -162,7 +162,7 @@ int main(int argc, char **argv)
     glutInitWindowSize(SCREEN_WIDTH, SCREEN_HEIGHT);
     // posisi jendela dilayar komputer dalam piksel
     glutInitWindowPosition(100, 100);
-    // judul jendela (isi dengan NAMA / NIM - JUDUL PRAKTIKUM)
+    // judul jendela (isi dengan Muhammad Farkhan Maulana / 2000018280 - Strategi Algoritma)
     glutCreateWindow("NAMA / NIM - PRAKTIKUM STIMA");
     // panggil fungsi init untuk inisialisasi awal
     initView();
