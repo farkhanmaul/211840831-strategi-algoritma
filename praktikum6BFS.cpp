@@ -163,7 +163,7 @@ int main(int argc, char **argv)
     // posisi jendela dilayar komputer dalam piksel
     glutInitWindowPosition(100, 100);
     // judul jendela (isi dengan Muhammad Farkhan Maulana / 2000018280 - Strategi Algoritma)
-    glutCreateWindow("NAMA / NIM - PRAKTIKUM STIMA");
+    glutCreateWindow("Muhammad Farkhan Maulana / 2000018280 - PRAKTIKUM STIMA");
     // panggil fungsi init untuk inisialisasi awal
     initView();
     // event handler untuk displa
